@@ -8,8 +8,21 @@
 
 <div align="center">
 
-Hi! I’m an electronics hardware engineer who likes Edge AI, power electronics, and making things that probably shouldn’t beep, beep.
+Hi! My name is Remi. I am an Electronics Hardware Engineer who likes high-speed digital design and power electronics.
+<br>
+Check out my latest project below!
 
+</div>
+
+<div align="center">
+
+
+
+
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=RemiFM&repo=RemiFM%2FUSB-LiDAR-VL53L9&description_lines_count=2)](https://github.com/RemiFM/USB-LiDAR-VL53L9)
+<br>
+<img src="https://raw.githubusercontent.com/RemiFM/USB-LiDAR-VL53L9/main/doc/render.png" width="25%">
 </div>
 
 ###
@@ -19,19 +32,3 @@ Hi! I’m an electronics hardware engineer who likes Edge AI, power electronics,
 </div>
 
 ###
-
-
-<!--
-**RemiFM/RemiFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
